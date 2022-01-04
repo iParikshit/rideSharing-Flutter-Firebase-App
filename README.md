@@ -1,5 +1,5 @@
 # <b> Shispa - rideSharing | Flutter App</b>
-
+Mobilty Platform
 
 <b>Shispa</b> - It's a ride-sharing app, developed in flutter (cross-platform), firebase as BaaS. 
 
